@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=858585&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+William+Pettinelli;I'm+27+years+old;I+live+in+Brasil,+RS;I+am+academic+in+software+engineering+at+Anhanguera;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=858585&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+William+Pettinelli;I'm+27+years+old;I+live+in+Brasil,+RS;I+am+academic+in+software+engineering+at+Anhanguera;Welcome!+:%29)](https://git.io/typing-svg)
 <div align="center">
   <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api?username=pettinelli1202&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" alt="Lucas William Pettinelli github stats" /> 
   <img width="100%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pettinelli1202&theme=blue-green=compact&hide_border=true&title_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" />
