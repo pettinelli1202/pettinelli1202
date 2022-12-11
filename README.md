@@ -5,8 +5,14 @@
   <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api?username=pettinelli1202&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" alt="Lucas William Pettinelli github stats" /> 
   <img width="100%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pettinelli1202&theme=blue-green=compact&hide_border=true&title_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
+
 <div align="center">  
 <a href="https://www.instagram.com/lucxs.willixm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+
+  <div align="center">
+    <a href="" target="[pettinellilucas@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwPkWtNGPNdJMJGSpsnxMlzLhqxHMRPrKFprJlzJRMDLRDwSTGpbmMSNxdSHCWcWvBdzpMP)"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+  <div align="center"> 
+<a href="https://www.linkedin.com/in/lucas-pettinelli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
   
   ### Main skills:
@@ -35,3 +41,4 @@
 ### Studying in this moment:
    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=858585&height=120&section=footer"/>
