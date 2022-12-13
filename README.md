@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/lucxs.willixm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 
   <div align="center">
-    <a href="" target="pettinellilucas@gmail.com.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+    <a href="" target="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLBwhzqRdHgskCdxWLBkmdDMbGnvFKKMTssWxvBRHNZvxQPWkDRsNKXvkfDFFzZThNfgzl" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
       
   <div align="center"> 
 <a href="https://www.linkedin.com/in/lucas-pettinelli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
